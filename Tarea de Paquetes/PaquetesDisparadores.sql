@@ -233,4 +233,4 @@ BEGIN
     RAISE_APPLICATION_ERROR(-20002,'Salario fuera de rango');
   END IF;
 END;
-/  
+/    
